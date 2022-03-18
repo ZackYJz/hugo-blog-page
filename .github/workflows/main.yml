@@ -10,8 +10,7 @@ jobs:
       - name: checkout # 步骤的名称
         uses: actions/checkout@v2 #软件市场的名称
         with: # 参数
-          submodules: true
-          fetch-depth: 0
+          submodules: false
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2.2.2
         env:
