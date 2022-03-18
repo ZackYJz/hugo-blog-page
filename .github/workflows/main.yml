@@ -26,5 +26,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           EXTERNAL_REPOSITORY: ZackYJz/zackyjz.github.io
-          PUBLISH_BRANCH: master
+          PUBLISH_BRANCH: main
           PUBLISH_DIR: ./public
