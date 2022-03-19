@@ -1,6 +1,6 @@
 baseURL = "https://blog.wvuuvw.xyz/"
 languageCode = "zh-CN"
-title = "🌏 ZackYJ's Blog"
+title = "ZackYJ's Blog"
 DefaultContentLanguage = "zh"
 theme = "diary"
 
@@ -10,16 +10,19 @@ theme = "diary"
     guessSyntax = false
     hl_Lines = ""
     lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
+    lineNos = false
+    lineNumbersInTable = false
     noClasses = true
     style = "dracula"
     tabWidth = 4
-
+   [markup.goldmark.renderer]
+    unsafe = true
 [params]
 subtitle = "Stay hungry , Stay foolish"
-enableReadingTime=true
-#enableGitalk = true
+enableReadingTime=false
+enableAutoDarkMode=true
+enableGitalk = false
+favicon = "https://logseq.oss-cn-chengdu.aliyuncs.com/noteImg/202203191023457.png"
 
 # Twitter Card and Open Graph settings
 #enableOpenGraph = true
@@ -49,6 +52,10 @@ url = "/posts"
 name = "📑 文章"
 weight = 1
 [[menu.main]]
+url = "/project/project"
+name = "📇 项目"
+weight = 4
+[[menu.main]]
 url = "/about/aboutme"
 name = "👨‍💻 关于"
-weight = 4
+weight = 5

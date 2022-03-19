@@ -3,7 +3,7 @@ title: "Java 四种本地文件拷贝方式比较和测试"
 date: 2020-04-13T13:31:23+08:00
 draft: false
 featured_image: "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"
-tags: [I/O,NIO]
+tags: [IO]
 categories: Java
 description: 学习完 Java 中 NIO 的基本使用，总结了四种最基本的本地文件拷贝方式，并简单比较性能
 ---
