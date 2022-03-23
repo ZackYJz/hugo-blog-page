@@ -1,9 +1,9 @@
 ---
 disableToC: true
-date: 2021-01-021T09:54:23+08:00
+date: 2021-01-02T18:31:23+08:00
 featured_image: ""
 tags: [缓存]
-title: "SSM整合：分层配置和整合"
+title: "Redis缓存设计案例"
 categories: Redis
 description: 实现简单的 Redis 缓存和回写操作
 ---
