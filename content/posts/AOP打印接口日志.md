@@ -3,7 +3,7 @@ disableToC: true
 title: "利用 Spring AOP 打印接口日志"
 date: 2021-03-03T12:43:23+08:00
 draft: false
-featured_image: "封面"
+featured_image: "https://images.unsplash.com/photo-1526313136667-0a911d4b85cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
 tags: [SpringBoot]
 categories: Java
 description: 前文介绍了过滤器和拦截器打印接口日志的方式

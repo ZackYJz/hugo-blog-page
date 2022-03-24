@@ -3,7 +3,7 @@ disableToC: true
 title: "封装BeanUtils的属性拷贝工具类"
 date: 2021-02-21T11:31:23+08:00
 draft: false
-featured_image: "封面"
+featured_image: "https://images.unsplash.com/photo-1597484661973-ee6cd0b6482c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
 tags: [Spring]
 categories: Java
 description: Spring 自带的 BeanUtils 工具类封装
